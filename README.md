@@ -7,3 +7,5 @@ $ npm install
 ```
 $ npm run dev
 ```
+
+[Live Demo](https://applivechat.herokuapp.com)
